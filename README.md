@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biagante
 - 👀 I’m interested in computers, technology, photography and cinema
-- 🌱 I’m currently learning @ University of Aveiro
+- 🌱 I’m currently working @ University of Aveiro
 - 💞️ I’m looking to collaborate on new projects
 <!--- - 📫 How to reach me: 
 
